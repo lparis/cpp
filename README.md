@@ -29,3 +29,11 @@ int main()
     return 0;
 }
 ```
+
+## Git Access
+
+Set remote to use SSH
+
+```
+git remote set-url origin git@github.com:lparis/cpp.git
+```
